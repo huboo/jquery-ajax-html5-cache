@@ -6,6 +6,7 @@ A cache for ajax request to reduce the requests.
 Usage:
 ---------
 
+``` js
 $.ajax({
 	url: 'test.json',
 	dataType: 'json',
@@ -17,3 +18,4 @@ $.ajax({
 		console.log(o);
 	}
 })
+```
