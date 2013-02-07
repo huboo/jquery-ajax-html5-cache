@@ -1,4 +1,4 @@
-// comes from this repo: github.com/paulirish/jquery-ajax-localstorage-cache
+// comes from this repository: github.com/paulirish/jquery-ajax-localstorage-cache
 
 $.ajaxPrefilter(function(options, originalOptions, jqXHR){
 	// Cache it ?
